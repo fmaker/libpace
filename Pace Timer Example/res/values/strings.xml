@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">PACE timer sample.</string>
+    <string name="pace_service_started">PACE service started.</string>
+    <string name="pace_service_label">Pace Service</string>
+    <string name="local_pace_service_controller">Pace Service</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+</resources>
